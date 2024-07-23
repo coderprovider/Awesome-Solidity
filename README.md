@@ -26,9 +26,9 @@
 ### Contents
 
 - [Resources](#resources)
-    - [Official](#official)
-    - [Tutorials](#tutorials)
-    - [Articles](#articles)
+    - [Official](#official) 
+    - [Tutorials](#tutorials) 
+    - [Articles](#articles) 
     - [Security](#security)
       - [Audits](#audits)
     - [Examples](#examples)
